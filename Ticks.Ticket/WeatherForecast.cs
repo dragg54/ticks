@@ -1,4 +1,4 @@
-namespace Ticks.Ticket
+namespace Ticks.Tickets
 {
     public class WeatherForecast
     {

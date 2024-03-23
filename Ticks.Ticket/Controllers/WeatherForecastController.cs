@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Ticks.Ticket.Controllers
+namespace Ticks.Tickets.Controllers
 {
     [ApiController]
     [Route("[controller]")]
